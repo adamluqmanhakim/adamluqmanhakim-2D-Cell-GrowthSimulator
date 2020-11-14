@@ -1,0 +1,13 @@
+﻿  OpenGlDemo.cpp
+C:\Users\AdamM\OneDrive\Desktop\comp 426\40021709_a1_comp426\OpenGLProject\OpenGlDemo.cpp(25,37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\AdamM\OneDrive\Desktop\comp 426\40021709_a1_comp426\OpenGLProject\OpenGlDemo.cpp(28,69): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\AdamM\OneDrive\Desktop\comp 426\40021709_a1_comp426\OpenGLProject\OpenGlDemo.cpp(110,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\AdamM\OneDrive\Desktop\comp 426\40021709_a1_comp426\OpenGLProject\OpenGlDemo.cpp(110,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\AdamM\OneDrive\Desktop\comp 426\40021709_a1_comp426\OpenGLProject\OpenGlDemo.cpp(111,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\AdamM\OneDrive\Desktop\comp 426\40021709_a1_comp426\OpenGLProject\OpenGlDemo.cpp(111,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\AdamM\OneDrive\Desktop\comp 426\40021709_a1_comp426\OpenGLProject\OpenGlDemo.cpp(112,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\AdamM\OneDrive\Desktop\comp 426\40021709_a1_comp426\OpenGLProject\OpenGlDemo.cpp(112,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\AdamM\OneDrive\Desktop\comp 426\40021709_a1_comp426\OpenGLProject\OpenGlDemo.cpp(113,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\AdamM\OneDrive\Desktop\comp 426\40021709_a1_comp426\OpenGLProject\OpenGlDemo.cpp(113,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\AdamM\OneDrive\Desktop\comp 426\40021709_a1_comp426\OpenGLProject\OpenGlDemo.cpp(434,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OpenGLProject.vcxproj -> C:\Users\AdamM\OneDrive\Desktop\comp 426\40021709_a1_comp426\Debug\OpenGLProject.exe
